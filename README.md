@@ -66,8 +66,10 @@
 [<img src="assets/mail.png" height="50px">](mailto:saddamhussain1919@gmail.com)
 [<img src="assets/discord.png" height="50px">](https://discord.com/users/1208099151389138947)
 
-
-
-
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SaddamHosyn/SaddamHosyn/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/SaddamHosyn/SaddamHosyn/output/github-snake.svg" />
+</picture>
 
 </p>
