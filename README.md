@@ -59,7 +59,7 @@
 
 ## My GitHub Stats <img src = "https://i.pinimg.com/originals/65/c4/f4/65c4f452571be1261e9c623f7da488ac.gif" width = 35px>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SaddamHosyn&bg_color=000000&title_color=ffffff&text_color=ffffff&border_color=000000"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SaddamHosyn&bg_color=0D1117&title_color=ffffff&text_color=ffffff&border_color=0D1117"   />
 
 ## 📫 How to reach me [![Ask Me Anything !](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)](https://github.com/SaddamHosyn)
 
@@ -77,6 +77,5 @@
     <img src="https://myspoti-nine.vercel.app/api/spotify" alt="Spotify">
   </a>
 </div>
-
 
 </p>
