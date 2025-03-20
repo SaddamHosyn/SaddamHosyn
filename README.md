@@ -18,7 +18,7 @@
    🛠  Back-End Dev 
  📔 Frontend Dev
    🎧 Music  👨‍💻 Code
-  🍪 Cake & Cookie
+     ☕️ Chai   🍪 Cookie
 </pre>
 <br><br>
 <img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" height="50" />
@@ -71,5 +71,7 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SaddamHosyn/SaddamHosyn/output/github-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/SaddamHosyn/SaddamHosyn/output/github-snake.svg" />
 </picture>
+
+[![Spotify](https://myspoti-nine.vercel.app/api/spotify)](https://open.spotify.com/user/vmi2vuexeneom2d9fpiv8gvnt)
 
 </p>
