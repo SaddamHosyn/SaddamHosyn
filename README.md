@@ -7,7 +7,7 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Inconsolata&weight=750&size=40&duration=4000&pause=300&color=A7A459&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=1300&height=140&lines=I+am+Saddam+Hussain,+currently+living+in+Åland,+Mariehamn. 🌎" width="100%" />
+<img src="https://readme-typing-svg.demolab.com?font=Inconsolata&weight=750&size=40&duration=4000&pause=300&color=A7A459&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=1300&height=140&lines=I+am+Saddam+Hussain,+currently+living+in+Åland,+Finland. 🌎" width="100%" />
 <br>
 <pre>
   💼 Master Degree
