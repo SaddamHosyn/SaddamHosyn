@@ -72,6 +72,11 @@
   <img alt="github-snake" src="https://raw.githubusercontent.com/SaddamHosyn/SaddamHosyn/output/github-snake.svg" />
 </picture>
 
-[![Spotify](https://myspoti-nine.vercel.app/api/spotify)](https://open.spotify.com/user/vmi2vuexeneom2d9fpiv8gvnt)
+<div align="center">
+  <a href="https://open.spotify.com/user/vmi2vuexeneom2d9fpiv8gvnt">
+    <img src="https://myspoti-nine.vercel.app/api/spotify" alt="Spotify">
+  </a>
+</div>
+
 
 </p>
