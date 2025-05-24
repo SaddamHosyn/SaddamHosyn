@@ -7,7 +7,7 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&pause=300&color=A7A459&center=true&vCenter=true&width=1300&height=140&lines=I+am+Saddam+Hussain,+currently+living+in+Åland,+Finland.%F0%9F%8C%8D" width="100%" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&pause=300&color=A7A459&center=true&vCenter=true&width=1200&height=140&lines=I+am+Saddam+Hussain,+currently+living+in+Åland,+Finland.%F0%9F%8C%8D" width="100%" />
 <br>
 
 <pre>
