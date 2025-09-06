@@ -10,7 +10,6 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&pause=300&color=A7A459&center=true&vCenter=true&width=1600&height=200&lines=I+am+Saddam+Hussain,+currently+living+in+Åland,+Finland.%F0%9F%8C%8D" width="100%" />
 <br>
 
-
 <pre>
   💼 Master Degree
      📊 Data Engineering
@@ -74,11 +73,5 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SaddamHosyn/SaddamHosyn/output/github-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/SaddamHosyn/SaddamHosyn/output/github-snake.svg" />
 </picture>
-
-<div align="center">
-  <a href="https://open.spotify.com/user/vmi2vuexeneom2d9fpiv8gvnt">
-    <img src="https://myspoti-nine.vercel.app/api/spotify" alt="Spotify">
-  </a>
-</div>
 
 </p>
