@@ -7,7 +7,7 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&pause=300&color=A7A459&center=true&vCenter=true&width=1600&height=200&lines=Exploring+New+Tech+%F0%9F%94%A7%2C+Building+Real+Things.+%E2%9A%99%EF%B8%8F" width="100%" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&pause=300&color=A7A459&center=true&vCenter=true&width=1600&height=200&lines=Exploring+New+Tech+%F0%9F%94%A7%2C+Building+Real+Things+%E2%9A%99%EF%B8%8F." width="100%" />
 
 <br>
 
