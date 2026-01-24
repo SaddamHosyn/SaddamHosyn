@@ -17,11 +17,17 @@
     👁 Computer Vision
      💻 Machine Learning
   📖 Deep Learning
-   🛠  Back-End Dev 
+   🛠 Back-End Dev 
  📔 Frontend Dev
    🎧 Music  👨‍💻 Code
      ☕️ Chai   🍪 Cookie
 </pre>
+<br>
+
+<!-- SPOTIFY CARD ADDED HERE -->
+<a href="https://spotify-github-profile.kittinanx.com/api/view?uid=vmi2vuexeneom2d9fpiv8gvnt&redirect=true">
+  <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=vmi2vuexeneom2d9fpiv8gvnt&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=true&profanity=true" width="400" />
+</a>
 
 <br><br>
 <img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" height="50" />
