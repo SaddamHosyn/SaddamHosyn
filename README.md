@@ -11,7 +11,8 @@
 
 <br>
 
-<pre>♾️ DevOps
+<pre>
+  ♾️ DevOps
      📊 Data Engineering
     👁 Computer Vision
      💻 Machine Learning
