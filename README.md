@@ -17,7 +17,7 @@
     👁 Computer Vision
      💻 Machine Learning
   📖 Deep Learning
-   🛠 Back-End Dev 
+  🛠 Back-End Dev 
  📔 Frontend Dev
    🎧 Music  👨‍💻 Code
      ☕️ Chai   🍪 Cookie
