@@ -12,7 +12,7 @@
 <br>
 
 <pre>
-  💼 Master Degree
+  ♾️ DevOps
      📊 Data Engineering
     👁 Computer Vision
      💻 Machine Learning
