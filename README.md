@@ -12,7 +12,7 @@
 <br>
 
 <pre>
-  ♾️ DevOps
+♾️ DevOps
      📊 Data Engineering
     👁 Computer Vision
      💻 Machine Learning
