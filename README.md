@@ -13,9 +13,9 @@
 
 <pre>
   ♾️ DevOps
-     📊 Data Engineering
-    👁 Computer Vision
-     💻 Machine Learning
+    📊 Data Engineering
+   👁 Computer Vision
+    💻 Machine Learning
   📖 Deep Learning
   🛠 Back-End Dev 
  📔 Frontend Dev
@@ -65,6 +65,11 @@
 ![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
 ![Vagrant](https://img.shields.io/badge/Vagrant-1868F2?style=for-the-badge&logo=vagrant&logoColor=white)
 ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
+![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
+![Virtual Machine](https://img.shields.io/badge/Virtual_Machine-565656?style=for-the-badge&logo=virtualbox&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ## 🔭 I'm currently working on
 
