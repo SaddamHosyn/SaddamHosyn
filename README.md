@@ -12,13 +12,13 @@
 <br>
 
 <pre>
-  ♾️ DevOps
-    📊 Data Engineering
-   👁 Computer Vision
-    💻 Machine Learning
-  📖 Deep Learning
-  🛠 Back-End Dev 
- 📔 Frontend Dev
+         💻 Machine Learning
+      📖 Deep Learning
+♾️ DevOps
+          📊 Data Engineering
+         👁 Computer Vision
+       🛠 Back-End Dev 
+       📔 Frontend Dev
    🎧 Music  👨‍💻 Code
      ☕️ Chai   🍪 Cookie
 </pre>
