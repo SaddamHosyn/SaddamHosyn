@@ -16,8 +16,8 @@
 ♾️ DevOps
           📊 Data Engineering
        🛠 Back-End Dev 
-      🎧 Music  👨‍💻 Code
-      ☕️ Chai   🍪 Cookie
+        🎧 Music  👨‍💻 Code
+        ☕️ Chai   🍪 Cookie
 </pre>
 
 <br><br>
