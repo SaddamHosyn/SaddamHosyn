@@ -17,7 +17,7 @@
           📊 Data Engineering
        🛠 Back-End Dev 
         🎧 Music  👨‍💻 Code
-        ☕️ Chai   🍪 Cookie
+          ☕️ Chai   🍪 Cookie
 </pre>
 
 <br><br>
