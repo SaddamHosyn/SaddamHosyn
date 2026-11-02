@@ -13,12 +13,9 @@
 
 <pre>
          💻 Machine Learning
-      📖 Deep Learning
 ♾️ DevOps
           📊 Data Engineering
-         👁 Computer Vision
        🛠 Back-End Dev 
-       📔 Frontend Dev
    🎧 Music  👨‍💻 Code
      ☕️ Chai   🍪 Cookie
 </pre>
