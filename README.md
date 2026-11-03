@@ -3,7 +3,7 @@
 [![LinkedIn Profile](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saddam-hussain-761897b9/)
 [![instagram profile link](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/hosynktk)
 
-![Profile View Counter](https://komarev.com/ghpvc/?username=SaddamHosyn)
+![Profile View Counter](https://komarev.com/ghpvc/?username=hosynS)
 
 <div align="center">
 
@@ -67,13 +67,13 @@
 
 <img align="center" alt="GIF" src="https://media.giphy.com/media/hrSFdM4rg8VFpXyz2m/giphy.gif" height="250px"/>
 
-## 📫 How to reach me [![Ask Me Anything !](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)](https://github.com/SaddamHosyn)
+## 📫 How to reach me [![Ask Me Anything !](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)](https://github.com/hosynS)
 
 [<img src="assets/mail.png" height="50px">](mailto:saddamhussain1919@gmail.com)
 [<img src="assets/discord.png" height="50px">](https://discord.com/users/1208099151389138947)
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SaddamHosyn/SaddamHosyn/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SaddamHosyn/SaddamHosyn/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/SaddamHosyn/SaddamHosyn/output/github-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hosynS/SaddamHosyn/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/hosynS/SaddamHosyn/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/hosynS/SaddamHosyn/output/github-snake.svg" />
 </picture>
