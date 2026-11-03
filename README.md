@@ -1,6 +1,6 @@
 ## 🙋‍♂️ About me 💻
 
-[![LinkedIn Profile](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saddam-hussain-761897b9/)
+[![LinkedIn Profile](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hosyn/)
 [![instagram profile link](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/hosynktk)
 
 ![Profile View Counter](https://komarev.com/ghpvc/?username=hosynS)
