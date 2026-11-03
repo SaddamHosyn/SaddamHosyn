@@ -69,7 +69,7 @@
 
 ## 📫 How to reach me [![Ask Me Anything !](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)](https://github.com/hosynS)
 
-[<img src="assets/mail.png" height="50px">](mailto:saddamhussain1919@gmail.com)
+[<img src="assets/mail.png" height="50px">](mailto:shosyn@outlook.com)
 [<img src="assets/discord.png" height="50px">](https://discord.com/users/1208099151389138947)
 
 <picture>
